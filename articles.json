@@ -1,0 +1,77 @@
+{
+  "results":[
+    {
+      "published_date": 1448384041,
+      "linkedin_shares": 0,
+      "google_plus_shares": 0,
+      "twitter_user_id": 5167205,
+      "total_shares_with_pinterest": 19502,
+      "article_types": [
+        "general_article"
+      ],
+      "twitter_shares": 136,
+      "article_amplifiers": [
+        "unilad"
+      ],
+      "og_url": "http:\/\/www.unilad.co.uk\/news\/mafia-warn-isis-to-stay-out-of-new-york\/",
+      "url": "http:\/\/www.unilad.co.uk\/news\/mafia-warn-isis-to-stay-out-of-new-york\/",
+      "pinterest_shares": 0,
+      "id": "912924327",
+      "total_shares": 19502,
+      "title": "Mafia Warn ISIS To 'Stay Out Of New York'",
+      "thumbnail": "http:\/\/cdn.unilad.co.uk\/wp-content\/uploads\/2015\/11\/isisvsmob.jpg",
+      "subdomain": "www.unilad.co.uk",
+      "author_name": "Unilad",
+      "num_words": 374,
+      "article_amplifier_images": [
+        "http:\/\/pbs.twimg.com\/profile_images\/665363037357006848\/Bj8HSOX3_bigger.jpg"
+      ],
+      "domain_name": "unilad.co.uk",
+      "total_facebook_shares": 19366,
+      "trending_score": 450,
+      "giveaway": 0,
+      "infographic": 0,
+      "general_article": 1,
+      "guest_post": 0,
+      "interview": 0,
+      "video": 0
+    },
+    {
+      "published_date": 1448450283,
+      "linkedin_shares": 0,
+      "google_plus_shares": 0,
+      "total_shares_with_pinterest": 7050,
+      "article_types": [
+        "general_article"
+      ],
+      "twitter_shares": 67,
+      "article_amplifiers": [
+        "manutdmen"
+      ],
+      "og_url": "http:\/\/www.manchestereveningnews.co.uk\/sport\/football\/football-news\/manchester-united-v-psv-eindhoven-10496895",
+      "url": "http:\/\/www.manchestereveningnews.co.uk\/sport\/football\/football-news\/manchester-united-v-psv-eindhoven-10496895",
+      "pinterest_shares": 0,
+      "id": "913255150",
+      "total_shares": 7050,
+      "title": "Manchester United v PSV Eindhoven: Blind at centre-back, result in Moscow and other things to look out for",
+      "thumbnail": "http:\/\/i3.manchestereveningnews.co.uk\/incoming\/article10360480.ece\/ALTERNATES\/s1200\/PA-24175067.jpg",
+      "subdomain": "www.manchestereveningnews.co.uk",
+      "author_name": "Rob Dawson",
+      "num_words": 462,
+      "article_amplifier_images": [
+        "http:\/\/pbs.twimg.com\/profile_images\/560116179524546560\/oA_YI7Jt_bigger.png"
+      ],
+      "domain_name": "manchestereveningnews.co.uk",
+      "total_facebook_shares": 6983,
+      "trending_score": 433,
+      "giveaway": 0,
+      "infographic": 0,
+      "general_article": 1,
+      "guest_post": 0,
+      "interview": 0,
+      "video": 0
+    }
+  ],
+  "total_pages":1,
+  "search_type":"trends"
+}
